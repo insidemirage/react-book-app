@@ -1,0 +1,15 @@
+.header{
+  display: flex;
+  flex-flow: column;
+  background-color: rgb(3, 102, 168);
+  &__title{
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+  }
+  &__search{
+    display: flex;
+    width: 100%;
+    align-items: center;
+  }
+}
