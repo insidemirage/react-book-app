@@ -22,3 +22,8 @@ yarn run build
 ## ShowCase:
 
 ![Gif of Bookinator](images/shoot.gif)
+
+## Google magic
+Guess u noticed that pages in pagination randomly changes? Welcome to the google magic club:   
+![Gif Google Magic](images/googlemagic.gif)   
+Stackoverflow: https://stackoverflow.com/questions/7266838/google-books-api-returns-json-with-a-seemingly-wrong-totalitem-value

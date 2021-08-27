@@ -51,7 +51,7 @@ const Header = () => {
   const dispatch = useDispatch();
 
   const requestBooks = (bookName: string) => {
-    dispatch(fetchBooks(bookName));
+    dispatch(fetchBooks({bookName}));
     history.push("/");
   }
 
